@@ -1,0 +1,31 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+#topbar{
+    background-color: #FBC903;
+}
+.topbar-text{
+    font-size: 13px;
+}
+#topbar-icons svg:hover{
+    color: #FBC903 !important;
+}
+#navbar-logo{
+    width: 11rem;
+}
+.navbar-btn{
+    background-color: #FBC903;
+    transition: all 0.4s ease-out;
+    border: none;
+}
+.navbar-btn:hover{
+    background-color: black;
+}
+.nav-link{
+    transition: all 0.1s ease-out;
+    font-size: 17px;
+    font-weight: 500;
+}
+.nav-link:hover{
+    color: #FBC903 !important;
+}
